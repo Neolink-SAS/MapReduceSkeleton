@@ -1,0 +1,2 @@
+# MapReduceSkeleton
+Hadoop MapReduce Skeleton
