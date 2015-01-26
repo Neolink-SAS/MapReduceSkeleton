@@ -1,7 +1,7 @@
 # MapReduceSkeleton
 
 # Introduction
-This is a MapReduce Skeleton job with MariaDB (and HBase coming soon) support as input dataset and output.  
+This is a MapReduce Skeleton job with MariaDB/MySQL (and HBase coming soon) support as input dataset and output.
 The SQL configuration is in Main.java, and if you use the UPDATE method, you need to modify the Query in MysqlDBOutputFormat.java  
 You need to add 3 parameters to your job: the SQL server URI, the login and the password
 
